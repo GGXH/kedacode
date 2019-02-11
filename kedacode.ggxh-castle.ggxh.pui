@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ASCII"?>
+<!DOCTYPE PRJ SYSTEM "kedacode.ggxh-castle.ggxh.dtd">
+<PRJ>
+  <Folder Name="">
+    <Expand>0</Expand>
+  </Folder>
+  <Folder Name="/home/ggxh/CS/kedacode/hw2/">
+    <Expand>1</Expand>
+  </Folder>
+  <Folder Name="/home/ggxh/CS/kedacode/hw2/insert_sort/">
+    <Expand>0</Expand>
+  </Folder>
+  <Folder Name="hw1/ - /home/ggxh/CS/kedacode/hw1/dequeue_list/">
+    <Folder Name="/home/ggxh/CS/kedacode/hw1/dequeue_list/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="hw1/ - /home/ggxh/CS/kedacode/hw1/priority_queue/">
+    <Folder Name="/home/ggxh/CS/kedacode/hw1/priority_queue/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="hw2/ - /home/ggxh/CS/kedacode/hw2/select_sort/">
+    <Folder Name="/home/ggxh/CS/kedacode/hw2/select_sort/">
+      <Expand>0</Expand>
+    </Folder>
+  </Folder>
+  <Project_Information>
+    <Working_Time>-6630486133894880</Working_Time>
+    <Project_Start>2700000014000000070000000B0000000100000077000000010000002900000000000000FE7F0000808FFFFFFFFFFFFFB04AE7501756000013</Project_Start>
+    <MDIPerspective>(100,100,2098172,5,0,0,0,100000,4,(0,1,2,3,4,5))</MDIPerspective>
+  </Project_Information>
+  <Folder Name="hw2/ - /home/ggxh/CS/kedacode/hw2/insert_sort/"/>
+  <Folder Name="hw1/ - /home/ggxh/CS/kedacode/hw1/dequeue_array/">
+    <Folder Name="/home/ggxh/CS/kedacode/hw1/dequeue_array/">
+      <Expand>0</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="/home/ggxh/CS/kedacode/hw1/">
+    <Expand>1</Expand>
+  </Folder>
+  <Active_Settings>
+    <Active_File_Display_Mode>-1</Active_File_Display_Mode>
+  </Active_Settings>
+  <Open_Files>
+    <File>/home/ggxh/CS/kedacode/hw2/select_sort/main.cpp</File>
+    <File>/home/ggxh/CS/kedacode/hw2/insert_sort/insert_sort.h</File>
+    <File>/home/ggxh/CS/kedacode/hw2/insert_sort/insert_sort.cpp</File>
+    <File>/home/ggxh/CS/kedacode/hw2/quick_sort/quick_sort.h</File>
+    <File>/home/ggxh/CS/kedacode/hw2/quick_sort/quick_sort.cpp</File>
+    <File>/home/ggxh/CS/kedacode/hw2/quick_sort/main.cpp</File>
+  </Open_Files>
+  <Folder Name="hw2/ - /home/ggxh/CS/kedacode/hw2/quick_sort/">
+    <Folder Name="/home/ggxh/CS/kedacode/hw2/quick_sort/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="hw2/ - /home/ggxh/CS/kedacode/hw2/merge_sort/">
+    <Folder Name="/home/ggxh/CS/kedacode/hw2/merge_sort/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
+</PRJ>
