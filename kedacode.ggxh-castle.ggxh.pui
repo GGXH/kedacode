@@ -4,20 +4,58 @@
   <Folder Name="">
     <Expand>0</Expand>
   </Folder>
+  <Folder Name="twopointers/ - /home/ggxh/CS/kedacode/twopointers/keep2dumplicates/">
+    <Folder Name="/home/ggxh/CS/kedacode/twopointers/keep2dumplicates/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Folder Name="/home/ggxh/CS/kedacode/hw2/">
-    <Expand>1</Expand>
+    <Expand>0</Expand>
   </Folder>
   <Folder Name="/home/ggxh/CS/kedacode/hw2/insert_sort/">
     <Expand>0</Expand>
+  </Folder>
+  <Folder Name="twopointers/ - /home/ggxh/CS/kedacode/twopointers/removeadjacentduplicates/">
+    <Folder Name="/home/ggxh/CS/kedacode/twopointers/removeadjacentduplicates/">
+      <Expand>0</Expand>
+    </Folder>
   </Folder>
   <Folder Name="hw1/ - /home/ggxh/CS/kedacode/hw1/dequeue_list/">
     <Folder Name="/home/ggxh/CS/kedacode/hw1/dequeue_list/">
       <Expand>1</Expand>
     </Folder>
   </Folder>
+  <Folder Name="twopointers/ - /home/ggxh/CS/kedacode/twopointers/removealldup/">
+    <Folder Name="/home/ggxh/CS/kedacode/twopointers/removealldup/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="twopointers/ - /home/ggxh/CS/kedacode/twopointers/minwindsubstring/">
+    <Folder Name="/home/ggxh/CS/kedacode/twopointers/minwindsubstring/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="array_string/ - /home/ggxh/CS/kedacode/array_string/rotate_min_string/">
+    <Folder Name="/home/ggxh/CS/kedacode/array_string/rotate_min_string/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="/home/ggxh/CS/kedacode/array_string/">
+    <Expand>0</Expand>
+  </Folder>
   <Folder Name="hw1/ - /home/ggxh/CS/kedacode/hw1/priority_queue/">
     <Folder Name="/home/ggxh/CS/kedacode/hw1/priority_queue/">
       <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="twopointers/ - /home/ggxh/CS/kedacode/twopointers/trappingrainwater/">
+    <Folder Name="/home/ggxh/CS/kedacode/twopointers/trappingrainwater/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="twopointers/ - /home/ggxh/CS/kedacode/twopointers/longestsubstring/">
+    <Folder Name="/home/ggxh/CS/kedacode/twopointers/longestsubstring/">
+      <Expand>0</Expand>
     </Folder>
   </Folder>
   <Folder Name="hw2/ - /home/ggxh/CS/kedacode/hw2/select_sort/">
@@ -26,9 +64,9 @@
     </Folder>
   </Folder>
   <Project_Information>
-    <Working_Time>-6630486133894880</Working_Time>
-    <Project_Start>2700000014000000070000000B0000000100000077000000010000002900000000000000FE7F0000808FFFFFFFFFFFFFB04AE7501756000013</Project_Start>
-    <MDIPerspective>(100,100,2098172,5,0,0,0,100000,4,(0,1,2,3,4,5))</MDIPerspective>
+    <Working_Time>3296481550183191</Working_Time>
+    <Project_Start>2900000022000000070000001B000000010000007700000003000000390000000000000052560000808FFFFFFFFFFFFFB05A036C52560000F3</Project_Start>
+    <MDIPerspective>(100,100,2098172,5,0,0,0,100000,0,(0))</MDIPerspective>
   </Project_Information>
   <Folder Name="hw2/ - /home/ggxh/CS/kedacode/hw2/insert_sort/"/>
   <Folder Name="hw1/ - /home/ggxh/CS/kedacode/hw1/dequeue_array/">
@@ -37,23 +75,36 @@
     </Folder>
   </Folder>
   <Folder Name="/home/ggxh/CS/kedacode/hw1/">
-    <Expand>1</Expand>
+    <Expand>0</Expand>
   </Folder>
   <Active_Settings>
     <Active_File_Display_Mode>-1</Active_File_Display_Mode>
   </Active_Settings>
+  <Folder Name="array_string/ - /home/ggxh/CS/kedacode/array_string/remove_space/">
+    <Folder Name="/home/ggxh/CS/kedacode/array_string/remove_space/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Open_Files>
-    <File>/home/ggxh/CS/kedacode/hw2/select_sort/main.cpp</File>
-    <File>/home/ggxh/CS/kedacode/hw2/insert_sort/insert_sort.h</File>
-    <File>/home/ggxh/CS/kedacode/hw2/insert_sort/insert_sort.cpp</File>
-    <File>/home/ggxh/CS/kedacode/hw2/quick_sort/quick_sort.h</File>
-    <File>/home/ggxh/CS/kedacode/hw2/quick_sort/quick_sort.cpp</File>
-    <File>/home/ggxh/CS/kedacode/hw2/quick_sort/main.cpp</File>
+    <File>/home/ggxh/CS/kedacode/twopointers/longestsubstring2dist/sol.cpp</File>
   </Open_Files>
+  <Folder Name="twopointers/ - /home/ggxh/CS/kedacode/twopointers/longestsubstring2dist/">
+    <Folder Name="/home/ggxh/CS/kedacode/twopointers/longestsubstring2dist/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="array_string/ - /home/ggxh/CS/kedacode/array_string/string_sort/">
+    <Folder Name="/home/ggxh/CS/kedacode/array_string/string_sort/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Folder Name="hw2/ - /home/ggxh/CS/kedacode/hw2/quick_sort/">
     <Folder Name="/home/ggxh/CS/kedacode/hw2/quick_sort/">
       <Expand>1</Expand>
     </Folder>
+  </Folder>
+  <Folder Name="/home/ggxh/CS/kedacode/twopointers/">
+    <Expand>1</Expand>
   </Folder>
   <Folder Name="hw2/ - /home/ggxh/CS/kedacode/hw2/merge_sort/">
     <Folder Name="/home/ggxh/CS/kedacode/hw2/merge_sort/">
