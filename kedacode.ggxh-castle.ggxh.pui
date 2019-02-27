@@ -64,11 +64,16 @@
     </Folder>
   </Folder>
   <Project_Information>
-    <Working_Time>3296481550183191</Working_Time>
-    <Project_Start>2900000022000000070000001B000000010000007700000003000000390000000000000052560000808FFFFFFFFFFFFFB05A036C52560000F3</Project_Start>
+    <Working_Time>6077141264247627</Working_Time>
+    <Project_Start>2A000000100000000D0000001B0000000100000077000000030000003900000000000000FF7F0000808FFFFFFFFFFFFFB01AC59BB0550000CC</Project_Start>
     <MDIPerspective>(100,100,2098172,5,0,0,0,100000,0,(0))</MDIPerspective>
   </Project_Information>
   <Folder Name="hw2/ - /home/ggxh/CS/kedacode/hw2/insert_sort/"/>
+  <Folder Name="twopointers/ - /home/ggxh/CS/kedacode/twopointers/longestpalidromesubstring/">
+    <Folder Name="/home/ggxh/CS/kedacode/twopointers/longestpalidromesubstring/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Folder Name="hw1/ - /home/ggxh/CS/kedacode/hw1/dequeue_array/">
     <Folder Name="/home/ggxh/CS/kedacode/hw1/dequeue_array/">
       <Expand>0</Expand>
@@ -86,7 +91,7 @@
     </Folder>
   </Folder>
   <Open_Files>
-    <File>/home/ggxh/CS/kedacode/twopointers/longestsubstring2dist/sol.cpp</File>
+    <File>/home/ggxh/CS/kedacode/twopointers/longestpalidromesubstring/sol.cpp</File>
   </Open_Files>
   <Folder Name="twopointers/ - /home/ggxh/CS/kedacode/twopointers/longestsubstring2dist/">
     <Folder Name="/home/ggxh/CS/kedacode/twopointers/longestsubstring2dist/">
