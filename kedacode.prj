@@ -17,6 +17,7 @@
   </Project_ID>
   <Files>
     <File>/home/ggxh/CS/kedacode/hw2/</File>
+    <File>/home/ggxh/CS/kedacode/binarysearch/</File>
     <File>/home/ggxh/CS/kedacode/array_string/</File>
     <File>/home/ggxh/CS/kedacode/hw1/</File>
     <File>/home/ggxh/CS/kedacode/twopointers/</File>
@@ -24,6 +25,7 @@
   <Group_Filter>
     <OF Name="/home/ggxh/CS/kedacode/hw2/">*.*</OF>
     <OF Name="/home/ggxh/CS/kedacode/hw2/insert_sort/">*.*</OF>
+    <OF Name="/home/ggxh/CS/kedacode/binarysearch/">*.*</OF>
     <OF Name="/home/ggxh/CS/kedacode/array_string/">*.*</OF>
     <OF Name="/home/ggxh/CS/kedacode/hw1/">*.*</OF>
     <OF Name="/home/ggxh/CS/kedacode/twopointers/">*.*</OF>
