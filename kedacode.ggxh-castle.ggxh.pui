@@ -4,8 +4,18 @@
   <Folder Name="">
     <Expand>0</Expand>
   </Folder>
+  <Folder Name="divide_conquer/ - /home/ggxh/CS/kedacode/divide_conquer/fibonacci/">
+    <Folder Name="/home/ggxh/CS/kedacode/divide_conquer/fibonacci/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Folder Name="twopointers/ - /home/ggxh/CS/kedacode/twopointers/keep2dumplicates/">
     <Folder Name="/home/ggxh/CS/kedacode/twopointers/keep2dumplicates/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="binarysearch/ - /home/ggxh/CS/kedacode/binarysearch/q6/">
+    <Folder Name="/home/ggxh/CS/kedacode/binarysearch/q6/">
       <Expand>1</Expand>
     </Folder>
   </Folder>
@@ -26,7 +36,12 @@
     </Folder>
   </Folder>
   <Folder Name="/home/ggxh/CS/kedacode/binarysearch/">
-    <Expand>1</Expand>
+    <Expand>0</Expand>
+  </Folder>
+  <Folder Name="binarysearch/ - /home/ggxh/CS/kedacode/binarysearch/q5/">
+    <Folder Name="/home/ggxh/CS/kedacode/binarysearch/q5/">
+      <Expand>1</Expand>
+    </Folder>
   </Folder>
   <Folder Name="hw1/ - /home/ggxh/CS/kedacode/hw1/dequeue_list/">
     <Folder Name="/home/ggxh/CS/kedacode/hw1/dequeue_list/">
@@ -47,6 +62,9 @@
     <Folder Name="/home/ggxh/CS/kedacode/binarysearch/q2_2/">
       <Expand>1</Expand>
     </Folder>
+  </Folder>
+  <Folder Name="/home/ggxh/CS/kedacode/binaryTree/">
+    <Expand>1</Expand>
   </Folder>
   <Folder Name="twopointers/ - /home/ggxh/CS/kedacode/twopointers/minwindsubstring/">
     <Folder Name="/home/ggxh/CS/kedacode/twopointers/minwindsubstring/">
@@ -87,11 +105,16 @@
     </Folder>
   </Folder>
   <Project_Information>
-    <Working_Time>-129920128035269</Working_Time>
-    <Project_Start>130000000E00000016000000030000000200000077000000000000003D00000000000000C2550000808FFFFFFFFFFFFFB02A8A3FC2550000CA</Project_Start>
-    <MDIPerspective>(100,100,2098172,5,0,0,0,100000,0,(0))</MDIPerspective>
+    <Working_Time>-4365034438385781</Working_Time>
+    <Project_Start>03000000390000000E000000030000000400000077000000050000007A00000000000000FC7F00000000000000000000702E00E03A7F0000F9</Project_Start>
+    <MDIPerspective>(100,100,2098172,5,0,0,0,100000,0,(0,1,2,3))</MDIPerspective>
   </Project_Information>
   <Folder Name="hw2/ - /home/ggxh/CS/kedacode/hw2/insert_sort/"/>
+  <Folder Name="binarysearch/ - /home/ggxh/CS/kedacode/binarysearch/q7/">
+    <Folder Name="/home/ggxh/CS/kedacode/binarysearch/q7/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Folder Name="twopointers/ - /home/ggxh/CS/kedacode/twopointers/longestpalidromesubstring/">
     <Folder Name="/home/ggxh/CS/kedacode/twopointers/longestpalidromesubstring/">
       <Expand>1</Expand>
@@ -129,7 +152,10 @@
     </Folder>
   </Folder>
   <Open_Files>
-    <File>/home/ggxh/CS/kedacode/twopointers/longestpalidromesubstring/sol.cpp</File>
+    <File>/home/ggxh/CS/kedacode/binaryTree/lowestCommonAncestor_notHaveTo.py</File>
+    <File>/home/ggxh/CS/kedacode/binaryTree/treeUtil.py</File>
+    <File>/home/ggxh/CS/kedacode/binaryTree/postorder.py</File>
+    <File>/home/ggxh/CS/kedacode/binaryTree/inorder.py</File>
   </Open_Files>
   <Folder Name="twopointers/ - /home/ggxh/CS/kedacode/twopointers/longestsubstring2dist/">
     <Folder Name="/home/ggxh/CS/kedacode/twopointers/longestsubstring2dist/">
@@ -146,12 +172,30 @@
       <Expand>1</Expand>
     </Folder>
   </Folder>
+  <Folder Name="binarysearch/ - /home/ggxh/CS/kedacode/binarysearch/q9/">
+    <Folder Name="/home/ggxh/CS/kedacode/binarysearch/q9/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
   <Folder Name="/home/ggxh/CS/kedacode/twopointers/">
     <Expand>0</Expand>
   </Folder>
   <Folder Name="hw2/ - /home/ggxh/CS/kedacode/hw2/merge_sort/">
     <Folder Name="/home/ggxh/CS/kedacode/hw2/merge_sort/">
       <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="binarysearch/ - /home/ggxh/CS/kedacode/binarysearch/q4_1/">
+    <Folder Name="/home/ggxh/CS/kedacode/binarysearch/q4_1/">
+      <Expand>1</Expand>
+    </Folder>
+  </Folder>
+  <Folder Name="/home/ggxh/CS/kedacode/divide_conquer/">
+    <Expand>0</Expand>
+  </Folder>
+  <Folder Name="binarysearch/ - /home/ggxh/CS/kedacode/binarysearch/q8/">
+    <Folder Name="/home/ggxh/CS/kedacode/binarysearch/q8/">
+      <Expand>0</Expand>
     </Folder>
   </Folder>
 </PRJ>

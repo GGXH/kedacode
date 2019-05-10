@@ -18,17 +18,21 @@
   <Files>
     <File>/home/ggxh/CS/kedacode/hw2/</File>
     <File>/home/ggxh/CS/kedacode/binarysearch/</File>
+    <File>/home/ggxh/CS/kedacode/binaryTree/</File>
     <File>/home/ggxh/CS/kedacode/array_string/</File>
     <File>/home/ggxh/CS/kedacode/hw1/</File>
     <File>/home/ggxh/CS/kedacode/twopointers/</File>
+    <File>/home/ggxh/CS/kedacode/divide_conquer/</File>
   </Files>
   <Group_Filter>
     <OF Name="/home/ggxh/CS/kedacode/hw2/">*.*</OF>
     <OF Name="/home/ggxh/CS/kedacode/hw2/insert_sort/">*.*</OF>
     <OF Name="/home/ggxh/CS/kedacode/binarysearch/">*.*</OF>
+    <OF Name="/home/ggxh/CS/kedacode/binaryTree/">*.*</OF>
     <OF Name="/home/ggxh/CS/kedacode/array_string/">*.*</OF>
     <OF Name="/home/ggxh/CS/kedacode/hw1/">*.*</OF>
     <OF Name="/home/ggxh/CS/kedacode/twopointers/">*.*</OF>
+    <OF Name="/home/ggxh/CS/kedacode/divide_conquer/">*.*</OF>
     <OF Name="/home/ggxh/CS/kedacode/hw1/dequeue_array/">*.*</OF>
   </Group_Filter>
 </PRJ>

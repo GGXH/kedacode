@@ -10,15 +10,27 @@ def searchRotatedArr(arr, target):
     if arr[mid] == target:
       return mid
       
-    if target < arr[right] and arr[mid] > arr[right]:
-      left = mid + 1
-    elif target > arr[left] and arr[mid] < arr[left]:
-      right = mid - 1
+    ##--better logical
+    if arr[mid] >= arr[left]:
+      if target >= arr[left] and target < arr[mid]:
+        right = mid - 1
+      else:
+        left = mid
     else:
-      if arr[mid] < target:
+      if target <= arr[right] and target > arr[mid]:
         left = mid + 1
       else:
-        right = mid - 1
+        right = mid
+      
+#    if target < arr[right] and arr[mid] > arr[right]:
+#      left = mid + 1
+#    elif target > arr[left] and arr[mid] < arr[left]:
+#      right = mid - 1
+#    else:
+#      if arr[mid] < target:
+#        left = mid + 1
+#      else:
+#        right = mid - 1
   return None
 
   
@@ -26,4 +38,4 @@ def searchRotatedArr(arr, target):
 if __name__ == "__main__":
   input = range(50, 100) + range(1, 50)
   
-  print searchRotatedArr(input, 1)
+  print searchRotatedArr(input, 90)
